@@ -21,7 +21,7 @@ Supporting code and demos from hands-on cloud lab experiments
 📌 Featured Repos
 --------------------------------------------------------------------------
 
-Azure Landing Zone Lab — deploy VMs, VNets, storage, backups with monitoring
+Azure Landing Zone Lab — https://github.com/kishan-patel02/AZ-104-Labs--hub-spoke-global-peering-lab
 
 
 🌐 Elsewhere

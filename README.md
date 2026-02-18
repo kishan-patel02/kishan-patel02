@@ -23,11 +23,6 @@ Supporting code and demos from hands-on cloud lab experiments
 
 Azure Landing Zone Lab — deploy VMs, VNets, storage, backups with monitoring
 
-Network Configuration Lab — Cisco switch setups, VLANs, routing
-
-Device Management Lab — Intune Autopilot, compliance, conditional access setups
-
-Home Lab Projects — scripting automation for deployment and monitoring
 
 🌐 Elsewhere
 --------------------------------------------------------------------------------
